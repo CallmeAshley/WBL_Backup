@@ -1,0 +1,50 @@
+{"id": 1, "question": "식물 엽록체에서 광계 II(PSII)와 광계 I(PSI)의 양자 효율 차이를 전자 전달 사슬(ETC) 동역학 관점에서 분석하고, 이 원리를 응용하여 인공 광합성 장치의 전자 분리 효율을 최적화하는 시스템 설계를 단계별로 제안하세요.", "subject": "physics"}
+{"id": 2, "question": "CRISPR-Cas9 시스템의 오프-타겟 효과를 최소화하기 위해 DNA-가이드 RNA(gRNA) 이차 구조를 예측하고, 이를 기반으로 한 머신러닝 모델 학습 데이터셋을 구성하는 방법론을 개발하시오. 학습 단계에서는 생물물리적 파라미터(예: GC-content, 용융 온도)를 필수적으로 고려해야 합니다.", "subject": "physics"}
+{"id": 3, "question": "장내 미생물군의 대사 부산물(SCFA 등)이 인간 뇌의 신경전달물질 분비에 미치는 영향을 메타게놈 데이터와 혈장 샘플 상관분석을 통해 규명하고, 프로바이오틱스 제형의 표적 균주 선정 기준을 제시하세요.", "subject": "physics"}
+{"id": 4, "question": "효모 Saccharomyces cerevisiae의 글루코즈 억제(glucorepression) 메커니즘에서 Snf1 키나제의 인산화 스위치 역할을 분자 동역학 시뮬레이션으로 재현하고, 이를 회피하여 셀룰로오스 기반 바이오연생산 효율을 높이는 대사 재편성 전략을 설계하세요.", "subject": "physics"}
+{"id": 5, "question": "인간 텔로미어 유지 시스템(TERT)과 암세포 무한증식 간의 인과관계를 텔로미어 길이 분포 히스토그램과 세포 주기 데이터를 결합한 계량모델로 증명하고, 표적 치료제 개발 시 예상되는 저항성 발생 경로를 예측하시오.", "subject": "physics"}
+{"id": 6, "question": "박테리아 편모 운동성에서 회전 방향 전환(CCW→CW)에 관여하는 CheY-P 단백질의 농도 구배를 미분방정식 모델로 기술하고, 이 모델이 박테리아 군집의 패턴 형성(예: 생물막)에 미치는 영향을 시뮬레이션하여 설명하세요.", "subject": "physics"}
+{"id": 7, "question": "신경줄기세포의 증식-분화 결정에서 Wnt/β-catenin과 Notch 신호 경로의 교차조절(crosstalk) 메커니즘을 단일세포 RNA-시퀀싱 데이터로 검증하고, 이를 활용한 척추손상 치료용 3D 세포배양 플랫폼 설계를 제안하세요.", "subject": "physics"}
+{"id": 8, "question": "항바이러스 RNA 간섭(RNAi)에서 siRNA의 지속적 발현을 위한 유전자 회로 설계를 위해 역전사 바이러스 벡터 시스템(Retroviral)을 개량하고, 표적 mRNA에 대한 오프-타겟 효과를 최소화하는 promoter engineering 전략을 수립하세요.", "subject": "physics"}
+{"id": 9, "question": "해양 적조 발생 시 미세조류의 세포 내 폴리인산염 축적이 중금속 해독 효율에 미치는 영향을 X-선 흡수 분광법(XAS) 데이터로 분석하고, 이를 모방한 산업폐수 처리용 생합성 나노입자 설계 프로토콜을 제시하세요.", "subject": "physics"}
+{"id": 10, "question": "미토콘드리아 질환 치료를 위한 엑소좀 기반 유전자 전달 시스템에서, 막 단백질 구성(SDP 및 IMP 비율)이 표적 조직 도달률에 미치는 영향을 시뮬레이션하고, 최적화된 엑소좀 표면 기능화 기술을 개발하시오.", "subject": "physics"}
+{"id": 11, "question": "식물 뿌리에서 철 결핍 시 발현되는 철 운반체(IRT1)의 프로모터에 결합하는 전사인자 FIT의 3D 구조 변형을 동종모델링(homology modeling)으로 예측하고, CRISPR 활성화 시스템을 이용한 과발현이 생산성 증대에 미치는 영향을 경제성 분석까지 포함하여 제시하세요.", "subject": "physics"}
+{"id": 12, "question": "T세포 수용체(TCR) 클러스터링 동역학에서 CD45 단백질의 탈인산화 효소가 신호 전달 강도에 미치는 영향을 FRAP(Fluorescence Recovery After Photobleaching) 실험으로 측정하고, 이를 기반으로 한 암면역요법 개선 방안을 모의실험하시오.", "subject": "physics"}
+{"id": 13, "question": "합성생물학적 미생물 연료전지에서 전자 중개체(mediator)로 사용되는 플라보닌(flavin)의 세포막 투과성 문제를 해결하기 위해, 지방산 사슬 길이 조절이 가능한 합성 리보솜 스위칭 시스템을 설계하고 전기화학적 성능을 평가하세요.", "subject": "physics"}
+{"id": 14, "question": "알츠하이머병 환자의 뇌 조직 특이적 프로테옴 데이터에서 아밀로이드 전구체 단백질(APP) 가공 효소의 변이체를 동정하고, 이들의 효소활성도(Kcat/Km)를 컴퓨테이셔널 도킹으로 예측한 후 약물 디자인 타깃 우선순위를 선정하시오.", "subject": "physics"}
+{"id": 15, "question": "해양 열수구 고세균(Sulfolobus)의 DNA 복구 효소 DnaK-J 단백질의 열안정성 기작을 분자 동역학(MD) 시뮬레이션으로 규명하고, 이를 모방하여 PCR 과정에 필요한 열안정성 중합효소 변이체를 in silico 설계하시오.", "subject": "physics"}
+{"id": 16, "question": "장내 미생물군집 간의 협력/경쟁 관계를 로트카-볼테라 모델을 확장하여 모델링하고, 프로바이오틱스 투여 시 발생할 수 있는 군집 변동 패턴을 예측하며 최적 투여 방식을 제안하세요.", "subject": "physics"}
+{"id": 17, "question": "광유전학 도구(Channelrhodopsin-2)의 청색광 흡수 파장(470nm)과 적색편이 변이체 개발 실패를 분광학적 데이터(QY, extinction coefficient)로 분석한 후, 돌연변이 스크리닝 가이드라인을 수립하시오.", "subject": "physics"}
+{"id": 18, "question": "암세포의 대사 재프로그래밍에서 글루코스 대신 글루타민 의존성이 나타나는 메커니즘(HIF-1α 경로 중심)을 대사 플럭스 분석(13C-글루타민 트레이서)으로 증명하고, 이를 표적로 한 이중 약물 병용 요법 전략을 제시하세요.", "subject": "physics"}
+{"id": 19, "question": "CRISPR-dCas9 기반 유전자 발현 조절 시스템에서 다중 가이드 RNA(gRNA) 간의 간섭 현상을 단일분자 FRET 실험으로 관찰하고, 이를 방지하기 위한 스캐폴드 설계 최적화 알고리즘을 개발하시오.", "subject": "physics"}
+{"id": 20, "question": "항생제 내성 확산을 억제하기 위해 박테리아 형질전환 과정에서 competency 유전자들의 발현 타이밍을 정량화하고, 이를 교란하는 합성 펩타이드를 리보솜계 in vitro 번역 시스템으로 스크리닝하는 프로토콜을 제안하세요.", "subject": "physics"}
+{"id": 21, "question": "식물 병저항성 유전자(R gene)와 효과자 단백질(effector)의 공진화 관계를 계통발생학적 분석으로 추적하고, 질병 저항성 품종 개발을 위한 분자표지 육종(MAS) 전략을 수립하시오.", "subject": "physics"}
+{"id": 22, "question": "인간 청각 신경세포의 기계적-전기 변환 기작에서 전압개방 이온채널(TMC1)의 막 내 구조 변화를 전기생리학적 기록 패치클램프 데이터와 결합한 모델링으로 재현하고, 난청 치료 가능성을 논의하세요.", "subject": "physics"}
+{"id": 23, "question": "바이오플라스틱 생산 균주(Pseudomonas putida)의 탄소원 전환 효율을 극대화하기 위해 PPP/Pentose phosphate pathway와 TCA cycle 간 대사 플럭스를 FBA(Flux Balance Analysis)로 최적화하고, 유전자 삭제 대상 선정 근거를 제시하시오.", "subject": "physics"}
+{"id": 24, "question": "CRISPR-Cas12a 시스템의 collaterally activation 특성을 활용한 병원균 진단 키트 개발 시, 비특이적 DNA 분해를 억제하기 위한 조건 최적화(예: 온도, 이온강도)를 DoE(Design of Experiment)로 설계하고 결과를 해석하시오.", "subject": "physics"}
+{"id": 25, "question": "세포 노화 과정에서의 텔로미어 단축과 미토콘드리아 기능 저하가 상호작용하는 메커니즘을 시스템 생물학 네트워크 모델(ODE)로 구축하고, 이를 표적으로 한 NAD+ 보충 요법의 기대효과를 시뮬레이션하세요.", "subject": "physics"}
+{"id": 26, "question": "광합성 효율 향상을 위해 엽록체 스트로마 내 RuBisCO 효소 집적화를 조절하는 단백질(RBCS)의 발현량을 light/dark 조건에서 조절 가능한 합성 프로모터로 교체하고, 광합성 속도를 이산화탄소 반응 곡선(A/Ci 커브)으로 평가하는 실험을 설계하시오.", "subject": "physics"}
+{"id": 27, "question": "B형 간염 바이러스(HBV)의 cccDNA가 숙주 간세포 크로마틴에 통합되는 과정을 ChIP-seq 데이터로 분석하고, 이에 기반한 유전자 가위 기술(예: CRISPR-Cas9 with base editor)을 이용한 제거 전략을 모의실험하시오.", "subject": "physics"}
+{"id": 28, "question": "신경가소성에서 시냅스 강도 조절(LTP/LTD)에 관여하는 NMDA 수용체의 Mg2+ 차단 해제 메커니즘을 막전위 의존적 개폐 동역학 모델로 설명하고, 이 모델을 적용한 인공 신경망 학습 알고리즘의 가능성을 논의하세요.", "subject": "physics"}
+{"id": 29, "question": "효모 이종발현 시스템에서 재조합 단백질의 불용성 집합체 형성(inclusion body) 문제를 해결하기 위해 분자샤페론 과발현 전략과 분비 신호 펩타이드 최적화를 결합한 다중 변수 실험을 설계하고, SDS-PAGE/Western blot 데이터를 해석하는 기준을 제시하시오.", "subject": "physics"}
+{"id": 30, "question": "광합성 세균(Rhodobacter sphaeroides)의 광에너지 변환 효율을 높이기 위해 반응센터 단백질 복합체(PufX)의 위치 특이적 변이를 도입한 후, 전자 전달 사슬의 산화환원 상태를 전기화학 임피던스 분광법(EIS)으로 분석하는 프로토콜을 수립하시오.", "subject": "physics"}
+{"id": 31, "question": "장내 미생물군집이 생성하는 대사물질(인돌 등)이 장뇌 축(gut-brain axis)을 통해 우울증 유발에 관여하는 메커니즘을 동물 모델(마우스)의 행동실험 데이터와 혈장/뇌 조직 메타볼로믹스 데이터를 연계하여 증명하시오.", "subject": "physics"}
+{"id": 32, "question": "CRISPR 간섭(CRISPRi) 시스템을 이용한 유전자 발현 억제를 최적화할 때, dCas9 단백질의 융합 파트너(예: KRAB, SID4X)에 따른 프로모터 접근성 변화를 ChIP-seq으로 비교하고, 표적 유전자 특성에 따른 선택 기준을 제시하세요.", "subject": "physics"}
+{"id": 33, "question": "암전이 과정에서 EMT(Epithelial-Mesenchymal Transition)를 유도하는 TGF-β 신호의 자가분비 루프를 단일세포 분해능 스페이셜 트랜스크립토믹스로 매핑하고, 이 과정을 차단하는 siRNA 조합 요법을 가상 스크리닝으로 탐색하시오.", "subject": "physics"}
+{"id": 34, "question": "해양 바이오에탄올 생산을 위한 미세조류(Nannochloropsis)의 지질 축적 경로를 강화하고, 세포벽 분해 효소(셀룰라아제)를 동시에 생산하는 합성 생물학적 균주 설계를 제안하시오. 경제성 분석을 반드시 포함할 것.", "subject": "physics"}
+{"id": 35, "question": "자폐스펙트럼 장애(ASD) 환자의 뇌 조직 특이적 후성유전학적 변이(DNA 메틸화)를 Whole Genome Bisulfite Sequencing 데이터로 분석하고, 이로 인해 발현 변형된 유전자 네트워크에 대한 네트워크 분석(GO, KEGG)을 수행하여 치료 표적을 예측하세요.", "subject": "physics"}
+{"id": 36, "question": "박테리아의 생물막 형성 과정에서 쿼럼 센싱(Quorum Sensing) 분자(AHL 등)의 확산을 3D 미세유체 장치로 제어하고, 이에 따른 생물막 구조 변화를 공초점 현미경으로 관찰한 데이터를 정량적으로 비교 분석하시오.", "subject": "physics"}
+{"id": 37, "question": "합성 생물학적 회로를 구성할 때, 리플론(repressilator)의 주기성 불안정성을 개선하기 위해 프로모터 누설(leakiness)과 mRNA 안정성을 고려한 수학적 모델을 개발하고, 파라미터 최적화를 위한 민감도 분석을 수행하시오.", "subject": "physics"}
+{"id": 38, "question": "인간 유도만능줄기세포(iPSC)에서 분화 유도된 심근세포의 전기적 특성 변동 요인을 패치클램프 데이터와 전사체 데이터를 결합한 머신러닝 모델로 식별하고, 이를 기반으로 한 균일한 세포주 개발 전략을 제안하세요.", "subject": "physics"}
+{"id": 39, "question": "항바이러스 약물 내성 발생 시 바이러스 프로테아제의 활성부위 변이를 구조예측 도구(AlphaFold2)로 모델링하고, 이에 대한 광범위 억제제 디자인을 분자 동역학 시뮬레이션으로 검증하시오.", "subject": "physics"}
+{"id": 40, "question": "식물 뿌리 분비물의 화학적 조성에 따라 근권 토양 미생물의 군집이 변하는 과정을 메타게놈/메타볼로믹스 통합 분석으로 규명하고, 이를 이용한 병해충 방제용 생물비료 제형 설계 방법을 제시하시오.", "subject": "physics"}
+{"id": 41, "question": "합성 포스포리파제 C(PLC) 변이체를 설계하여 세포 내 IP3/DAG 신호 전달 경로의 과활성화를 유도하고, 이로 인한 세포 사멸(apoptosis) 유도 효율을 Flow Cytometry로 정량화하는 실험 프로토콜을 제안하시오.", "subject": "physics"}
+{"id": 42, "question": "CRISPR-Cas13 시스템의 RNA 표적 능력을 활용하여 SARS-CoV-2 변이주 특이적 진단 키트를 개발할 때, primer dimer 형성을 방지하는 조건(예: Mg2+ 농도, annealing 온도)을 DoE(Design of Experiments)로 최적화하시오.", "subject": "physics"}
+{"id": 43, "question": "광합성 명반응에서 전자 공급원으로서의 페레독신(ferredoxin) 대사 재편성을 통해 수소생산 효율을 높이는 엔지니어링 전략을 수립하고, 이를 광생물학적 수소생산 시스템에 적용한 결과를 기체 크로마토그래피로 분석하는 방법을 기술하세요.", "subject": "physics"}
+{"id": 44, "question": "알츠하이머병의 타우 단백질 병리현상(tauopathy)에서 미세소관 불안정성 유발 메커니즘을 단일분자 형광 현미경으로 관찰하고, 이를 역전시킬 수 있는 합성 펩티드 억제제의 설계 방안을 제시하시오.", "subject": "physics"}
+{"id": 45, "question": "박테리아 편모 모터의 회전 속도 제어 메커니즘에서 stator 단백질의 이온 채널 특성과 프로톤 구동력 사이의 상관관계를 패치클램프 기술로 측정하고, 이를 모방한 나노에너지 하베스팅 장치 설계를 제안하세요.", "subject": "physics"}
+{"id": 46, "question": "식물 스트레스 응답에서 ABA 신호의 과발현이 종자 발아에 미치는 부정적 영향을 miRNA(s)의 표적 조절로 완화하는 합성 생물학적 회로를 설계하고, 해당 miRNA의 표적 유전자 네트워크를 siRNA 스크리닝으로 규명하시오.", "subject": "physics"}
+{"id": 47, "question": "암세포의 대사적 취약점(글루타민 의존성)을 표적으로 한 프로드럭(prodrug) 시스템을 설계할 때, 효소 활성화 조건(pH, 환원성)을 고려한 스마트 약물 전달 전략을 수립하고, 이의 암세포 선택적 독성을 MTT assay로 검증하는 방법을 제시하세요.", "subject": "physics"}
+{"id": 48, "question": "CRISPR 기반 염기편집(base editing)으로 혈우병 유발 변이를 수정한 후, 유전자 편집 효율과 오프 타겟 효과를 ddPCR과 WGS(전장 유전체 시퀀싱)로 각각 평가하고, 결과의 상관관계를 통계적으로 분석하시오.", "subject": "physics"}
+{"id": 49, "question": "신경가소성에서 시냅스 강화(LTP)와 약화(LTD)의 분자적 스위치 역할을 하는 CaMKII 효소의 자가인산화 메커니즘을 인산화 프로테오믹스와 실시간 형광 이미징으로 분석하고, 이를 모방한 메모리 소자 설계 아이디어를 제시하세요.", "subject": "physics"}
+{"id": 50, "question": "해양 열수구 환경의 압력(>300기압)에서 고세균 효소(예: 알칼리성 phosphatase)의 구조 안정성을 유지하기 위한 단백질 엔지니어링 전략을 고압 X-선 결정학과 분자 동역학 시뮬레이션을 결합하여 제안하고, 산업 효소 응용 가능성을 평가하시오.", "subject": "physics"}
